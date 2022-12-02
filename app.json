@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "expoBANKapp",
+    "slug": "expoBANKapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "backgroundColor": "#FF5349"
+    }
+  },
+  "name": "expoBANKapp"
+}
